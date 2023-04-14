@@ -13,5 +13,5 @@ A Windows forms .net 7 app to prompt and set context in Azure OpenAI Davinci and
 ```
 
 - In Visual Studio, click on the new file
-- Look for the Properties tab
-- Change the Build Action to: Copy always
+  - Look or open Properties Panel
+  - Change the Build Action to: Copy always
