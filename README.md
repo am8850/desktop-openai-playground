@@ -13,5 +13,6 @@ A Windows forms .net 7 app to prompt and set context in Azure OpenAI Davinci and
 ```
 
 - In Visual Studio, click on the new file
-  - Look or open Properties Panel
+  - Look or open the Properties Panel
   - Change the Build Action to: Copy always
+- Build in either Debug or Release modes
